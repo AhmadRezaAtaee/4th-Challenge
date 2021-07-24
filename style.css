@@ -19,6 +19,7 @@ body{
     font-weight: 700;
     color: #333333;
     font-size: 14px;
+    overflow: hidden;
 }
 .card{
     width: 450px;
